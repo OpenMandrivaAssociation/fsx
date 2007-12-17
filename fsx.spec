@@ -11,7 +11,6 @@ License:	GPL
 Group:		System/Kernel and hardware
 Source0:	%{name}.c
 Source1:	README
-Buildroot:	 %{_tmppath}/%{name}-%{version}-root
 
 %description
 General filesystem exerciser
