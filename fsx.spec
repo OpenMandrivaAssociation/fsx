@@ -1,6 +1,6 @@
 %define name    fsx
 %define version 1.3
-%define release %mkrel 2
+%define release %mkrel 4
 
 Name:           %{name}
 Version:        %{version}
