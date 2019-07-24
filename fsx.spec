@@ -3,8 +3,8 @@
 %define release 7
 
 Name:           %{name}
-Version:        %{version}
-Release:        %{release}
+Version:	2009
+Release:	1
 Summary:	General filesystem exerciser
 URL:		http://www.freebsd.org/cgi/cvsweb.cgi/src/tools/regression/fsx
 License:	GPL
