@@ -6,7 +6,7 @@ Name:           %{name}
 Version:	2009
 Release:	1
 Summary:	General filesystem exerciser
-URL:		http://www.freebsd.org/cgi/cvsweb.cgi/src/tools/regression/fsx
+URL:		https://www.freebsd.org/cgi/cvsweb.cgi/src/tools/regression/fsx
 License:	GPL
 Group:		System/Kernel and hardware
 Source0:	%{name}.c
